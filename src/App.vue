@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
 
   <div>
-    hello
+    hell
   </div>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
